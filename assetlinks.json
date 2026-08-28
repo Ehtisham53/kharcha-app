@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.kharchaapp.tracker",
+        "sha256_cert_fingerprints": ["C2:10:5E:45:CE:7E:C7:50:4D:2D:E6:0E:0C:51:65:83:10:94:AF:47:B1:15:E1:0B:6F:24:11:47:30:06:07:DF"]
+      }
+    }]
